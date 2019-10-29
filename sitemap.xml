@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/10/25/test/</loc>
-    
-    <lastmod>2019-10-26T13:12:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/10/26/test2/</loc>
-    
-    <lastmod>2019-10-26T11:28:09.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2019/10/21/hello-world/</loc>
     
     <lastmod>2019-10-26T11:23:03.000Z</lastmod>
@@ -40,13 +26,6 @@
     <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2019-10-26T08:59:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/10/25/test1/</loc>
-    
-    <lastmod>2019-10-25T13:40:01.000Z</lastmod>
     
   </url>
   
